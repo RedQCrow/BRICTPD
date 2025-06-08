@@ -54,7 +54,7 @@ To download a ship blueprint from this repository:
 1. Browse through the `bric-blueprints` directory to find the ship you’re interested in.
 2. Click on the blueprint folder of the ship you wish to download.
 3. Download the `.blueprint` blueprint file and any images or descriptions that accompany it.
-4. Import the blueprint into *From the Depths* by opening the `.blueprint` file in the game.
+4. Import the blueprint into your constructables folder. 
 
 ---
 
